@@ -1,11 +1,5 @@
-/* Awesome Styling */
-$primary-color: gold;
-$secondary-color: black;
-
-body {
-    background: blue;
-}
-
-h1{
-  color: $secondary-color;
-}
+/* Grand Central Station */
+@import "global";
+@import "grid";
+@import "typography";
+@import "video";
