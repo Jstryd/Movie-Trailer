@@ -2,5 +2,5 @@
 $('h1').lettering();
 // FitVids
 $('video').fitVids();
-// Video Player
+// Video Player - not working yet
 $('video').mediaElement();
