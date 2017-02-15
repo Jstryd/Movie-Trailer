@@ -14,3 +14,23 @@ video {
     max-width: 100%;
     width: 100%;
 }
+
+// Background
+
+html {
+    background: url(../img/palace.png) no-repeat center center fixed;
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+//links
+a:link {color: white;}
+a:visited {color: navajowhite;}
+a:hover {color: white;}
+a:active {color: navajowhite;}
+
+li {
+    list-style: none;
+}
