@@ -7,6 +7,7 @@ $secondary-color: purple;
 // Typography
 
 h1{
+    font-family: 'Georgia', fantasy;
     color: orangered;
     text-align: center;
     text-transform: uppercase;
@@ -52,4 +53,10 @@ a:active {color: navajowhite;}
 
 li {
     list-style: none;
+}
+
+// Player Styles - Find out where these go later
+
+.mejs__time-loaded {
+    background: rgb(243, 80, 0);
 }
